@@ -1,1 +1,19 @@
-
+{
+  "id": "dead-characters-collection",
+  "title": "The Dead Characters Collection",
+  "description": "A module of compendium packs containing pre-built characters for multiple systems, but mostly PF1e.",
+  "authors": [
+    {
+      "name": "nuclearGoblin"
+    }
+    ],
+  "version": "0.0.1",
+  "system": ["foundryvtt-pf1", "pf2e", "d35e", "dnd35e", "dnd5e"],
+  "url": "https://github.com/zerofoxcng/dead-characters-collection",
+  "manifest": "https://github.com/zerofoxcng/dead-characters-collection/tree/master/module.json",
+  "download": "https://github.com/zerofoxcng/dead-characters-collection/archive/refs/heads/main.zip",
+  "license": "./LICENSE",
+  "readme": "./README.md",
+  "bugs": "https://github.com/zerofoxcng/dead-characters-collection/issues"
+  "changelog": "https://github.com/zerofoxcng/dead-characters-collection/releases"
+}
